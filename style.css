@@ -1,0 +1,23 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.mb-3{
+  position: relative;
+}
+
+.fa-solid{
+  position: absolute;
+  right: 10px;
+  margin-top: -27px;
+  cursor: pointer;
+}
+
+#box{
+  max-width: 400px;
+  margin: 100px auto;
+  border: 2px solid #050505;
+  background-color: #ffffff;
+  padding: 20px;
+}
